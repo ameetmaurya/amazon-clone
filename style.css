@@ -381,17 +381,27 @@
             
 
                   .box5{
-                    background-color:white;
-                    height: 400px;
-                     width: 370px;
-                     position: relative;
-                     left: 945px;
-                     top: -1623px;
-                  }
-
-                  .style5{
-                    text-align: center;
+                    bac    width: 310px;
+                    background-color: green;
                     position: relative;
+                    right: -25px;
+                     top: 15px;
+                     background-image: url("assests/box6_image.jpg");
+                    background-size: cover;
+                   }
+ 
+ 
+                     /* box 5 */
+             
+ 
+                   .box5{
+                     background-color:white;
+                     height: 400px;
+                      width: 370px;
+                      position: relative;
+                      left: 945px;
+                      top: -1623px;
+                   sition: relative;
                     top: 5px;
                   }
 
@@ -789,14 +799,7 @@
            }
              
              /* footer */
-/* 
-             .page2{
-                height: 1000px;
-                width: 100%;
-                position: relative;
-                bottom: 0px;
-                background-color: black;
-             } */
+            
 
             
             

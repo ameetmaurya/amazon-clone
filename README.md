@@ -1,1 +1,3 @@
 # amazon-clone
+|table|row|
+|-----|---|
